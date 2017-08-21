@@ -1,0 +1,81 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background: url('http://cdn.wallpapersafari.com/81/1/vPIVmJ.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 20px;
+    padding: 0;
+}
+
+p {
+    line-height: 21px;
+    width: 1500px;
+}
+
+h1 {
+    color: #346e08;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+}
+
+h2 {
+    color: #224705;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+}
+
+h3 {
+    color: #224705;
+    font-size: 1.25em;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+footer{
+    text-align: center;
+    font-size: 1.25em;
+}
+
+footer a {
+    color: #900
+}
+#zen-intro {
+    text-align: center;
+    border-bottom: 20px dotted #2172aa;
+}
+
+#zen-summary {
+    text-align: left;
+    font-family: Georgia;
+}
+
+#zen-preamble {
+    text-align: center;
+    font-family: Serif;
+}
+
+#design-selection {
+    display: inline-block;
+    margin: 3px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid red;
+    background-color: #73AD21
+}
